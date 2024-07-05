@@ -1,4 +1,4 @@
 # intern-project
-creating a website using frontend and backend
-author-Punith naik
+creating a website using frontend and backend.
+Author-Punith naik
 
